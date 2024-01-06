@@ -1,2 +1,6 @@
-# Furhat_bot
-Furhat bot which responds to user based on emotion reaction of the fave
+# BARPT
+Furhat SDK interactive bartender
+
+The initial commits are the data set for webcam input and face recognition datasets.
+Dataset sourced from https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset 
+published by Jonathan Oheix
